@@ -16,11 +16,11 @@ Use Unreal Engine 4.26 to open the project
 If You have any questions or ideas about the demo, feel free to contact me.
 
 Inputs:
-ARROW KEYS - Move
-SPACE - Jump
-LEFT CLICK - Drag object
-RIGHT CLICK - Bounce object
-SCROLL WHEEL - Change actuator distance
+- ARROW KEYS - Move
+- SPACE - Jump
+- LEFT CLICK - Drag object
+- RIGHT CLICK - Bounce object
+- SCROLL WHEEL - Change actuator distance
 
 Introduction to the project: https://youtu.be/hUOI9K8x6wY
 Playable: https://drive.google.com/drive/folders/1tOPxKiRMhv3M1CxoDDJL5GRbMEmQSRMZ?usp=sharing
